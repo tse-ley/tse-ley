@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small projects for beginners in coding<br>👯 I’m looking to collaborate on beginner projects to be able to learn coding more efficiently.<br>🤝 I’m looking for help with confusion and problems that may arise in my projects.<br>🌱 I’m currently learning HTML, CSS and Java script.<br>💬 Ask me about what ever tickles your imagination.<br>⚡ Fun fact
+🔭 I’m currently working on small projects for beginners in coding<br>👯 I’m looking to collaborate on beginner projects to be able to learn coding more efficiently.<br>🤝 I’m looking for help with confusion and problems that may arise in my projects.<br>🌱 I’m currently learning HTML, CSS and PHP.<br>💬 Ask me about what ever tickles your imagination.<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
