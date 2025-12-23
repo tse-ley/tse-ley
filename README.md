@@ -2,7 +2,7 @@
 <!-- 💻 SANJAY SHRESTHA — GITHUB PROFILE -->
 <!-- ============================== -->
 
-<h1 align="center">Hey there 👋, I'm Sanjay Shrestha</h1>
+<h1 align="center">Hey there 👋, I'm Tseley</h1>
 <h3 align="center">💻 Building digital experiences with code & creativity</h3>
 
 <p align="center">
