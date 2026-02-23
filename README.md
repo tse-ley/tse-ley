@@ -1,88 +1,111 @@
-<!-- ============================== -->
-<!-- 💻 SANJAY SHRESTHA — GITHUB PROFILE -->
-<!-- ============================== -->
+<!-- ======================================== -->
+<!-- ⚡ TSELEY — CYBERPUNK FREELANCE PROFILE -->
+<!-- ======================================== -->
 
-<h1 align="center">Hey there 👋, I'm Tseley</h1>
-<h3 align="center">💻 Building digital experiences with code & creativity</h3>
+<h1 align="center">⚡ Hey, I'm Tseley</h1>
 
 <p align="center">
-  🚀 Freelance Full-Stack Developer | 🌐 Web & Mobile Apps | 🎨 UI/UX Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Freelance+Full-Stack+Developer;Building+Scalable+Web+Applications;Designing+Conversion-Focused+UI%2FUX;Laravel+%7C+Next.js+%7C+Cloud+Ready;Let%E2%80%99s+Build+Something+Powerful" />
 </p>
+
+<h3 align="center">🚀 High-Impact Websites • SaaS Platforms • E-Commerce Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjay-shrestha">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.gg/sXC7rcYD">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=tse-ley&icon=0&color=0" />
+  <img src="https://img.shields.io/badge/Available_for-Freelance-ff00ff?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me  
+## 🌌 About Me  
 
-I’m a **freelance full-stack developer** passionate about creating elegant, efficient, and user-focused digital solutions.  
-From **responsive web apps** and **e-commerce stores** to **mobile-friendly portfolios**, I bring ideas to life with clean design and scalable code.
+I help businesses transform ideas into **fast, scalable, and visually powerful digital products**.
 
-- 🔭 Currently working on freelance projects and full-stack web apps  
-- 🤝 Open to collaborating on beginner-friendly or open-source projects  
-- 🌱 Learning more about **Symfony**, **PostgreSQL**, and **cloud deployment**  
-- 🎨 Designing with **Figma**, **Canva**, and **Adobe** to bridge creativity & development  
-- 💬 Let’s talk about frontend frameworks, UI/UX, or server-side magic!  
-- ⚡ Fun fact: I treat code like art — simple, readable, and beautiful  
+Whether you're launching a startup, upgrading your brand, or building an internal system —  
+I design and develop solutions that are:
 
----
+✔ Performance-optimized  
+✔ Mobile-first  
+✔ Conversion-focused  
+✔ Built to scale  
 
-## 🧩 Tech Stack  
-
-### ⚙️ **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠️ **Backend & Databases**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 **Design & Tools**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Servers](https://img.shields.io/badge/Servers-Config-blue?style=for-the-badge)
+⚡ I don’t just write code — I build systems that grow with your business.
 
 ---
 
-## 📊 GitHub Insights  
+## 🧠 What I Can Build For You
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tse-ley&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tse-ley&theme=tokyonight&hide_border=false" height="160px"/>
-</p>
+- 🚀 High-performance business websites  
+- 🛒 Custom e-commerce platforms  
+- 📊 Admin dashboards & SaaS platforms  
+- 📱 Progressive Web Apps  
+- 🎨 Complete UI/UX design systems  
+- ☁️ Cloud-ready deployments  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tse-ley&theme=tokyonight&hide_border=false&layout=compact" height="140px"/>
+---
+
+# 🧩 Tech Arsenal
+
+## ⚛ Frontend
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-0f2027?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 </p>
 
 ---
 
-## ✍️ Developer Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
+## 🛠 Backend & Databases
+<p>
+<img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/Symfony-0f0c29?style=for-the-badge&logo=symfony&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-141e30?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Python-000428?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1b2735?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-141e30?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="center">🚀 “Code is the bridge between imagination and reality.”</h3>
+## 🎨 Design & Creative Stack
+<p>
+<img src="https://img.shields.io/badge/Figma-1f1c2c?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Affinity-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Canva-141E30?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+</p>
 
 ---
 
-<!-- 💡 Created & designed with care by Sanjay Shrestha -->
+## ⚙ Dev Environment
+<p>
+<img src="https://img.shields.io/badge/Zed_Editor-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Google_Cloud-000428?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
+</p>
+
+---
+
+## 💼 Why Clients Work With Me
+
+- Clear communication  
+- Clean, maintainable architecture  
+- Design + Development in one workflow  
+- Business-focused solutions  
+- On-time delivery  
+
+---
+
+<h2 align="center">⚡ Let’s Build Something That Stands Out</h2>
+<h3 align="center">Your Vision. My Code. Real Results.</h3>
+
+<!-- Neon Mode Activated -->
