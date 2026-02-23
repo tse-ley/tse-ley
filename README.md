@@ -1,14 +1,16 @@
-<!-- ======================================== -->
-<!-- ⚡ TSELEY — CYBERPUNK FREELANCE PROFILE -->
-<!-- ======================================== -->
+<!-- ================================================= -->
+<!-- ⚡ TSELEY — CYBERPUNK AGENCY MODE ACTIVATED ⚡ -->
+<!-- ================================================= -->
 
-<h1 align="center">⚡ Hey, I'm Tseley</h1>
-
+<!-- 🌌 MATRIX HEADER BACKGROUND -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Freelance+Full-Stack+Developer;Building+Scalable+Web+Applications;Designing+Conversion-Focused+UI%2FUX;Laravel+%7C+Next.js+%7C+Cloud+Ready;Let%E2%80%99s+Build+Something+Powerful" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00ff&height=220&section=header&text=TSELEY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=55&descAlign=50"/>
 </p>
 
-<h3 align="center">🚀 High-Impact Websites • SaaS Platforms • E-Commerce Systems</h3>
+<!-- ⚡ ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Premium+Freelance+Developer;High-Performance+Web+Applications;E-Commerce+%26+SaaS+Architect;Design+Meets+Scalable+Engineering;Let%E2%80%99s+Build+Digital+Dominance" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjay-shrestha">
@@ -17,41 +19,41 @@
   <a href="https://discord.gg/sXC7rcYD">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Available_for-Freelance-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Available_for-High_Value_Projects-ff00ff?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌌 About Me  
+<!-- 🌈 NEON DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=2&section=header"/>
+</p>
 
-I help businesses transform ideas into **fast, scalable, and visually powerful digital products**.
+# 🌌 Digital Architect for Modern Brands
 
-Whether you're launching a startup, upgrading your brand, or building an internal system —  
-I design and develop solutions that are:
+I build **scalable, conversion-focused digital systems** for startups, creators, and growing businesses.
 
-✔ Performance-optimized  
-✔ Mobile-first  
-✔ Conversion-focused  
-✔ Built to scale  
+This is not just development.  
+This is **engineering + design + business strategy combined.**
 
-⚡ I don’t just write code — I build systems that grow with your business.
+### 🚀 What Clients Hire Me For
 
----
-
-## 🧠 What I Can Build For You
-
-- 🚀 High-performance business websites  
-- 🛒 Custom e-commerce platforms  
-- 📊 Admin dashboards & SaaS platforms  
-- 📱 Progressive Web Apps  
-- 🎨 Complete UI/UX design systems  
-- ☁️ Cloud-ready deployments  
+- High-performance business websites  
+- SaaS platforms & dashboards  
+- E-commerce systems  
+- API-driven architectures  
+- UI/UX systems with brand identity  
+- Cloud-ready deployment pipelines  
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=2&section=header"/>
+</p>
 
 # 🧩 Tech Arsenal
 
-## ⚛ Frontend
+## ⚛ Frontend Systems
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -63,7 +65,7 @@ I design and develop solutions that are:
 
 ---
 
-## 🛠 Backend & Databases
+## 🛠 Backend & Data Architecture
 <p>
 <img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
 <img src="https://img.shields.io/badge/Symfony-0f0c29?style=for-the-badge&logo=symfony&logoColor=white"/>
@@ -76,7 +78,7 @@ I design and develop solutions that are:
 
 ---
 
-## 🎨 Design & Creative Stack
+## 🎨 Creative Stack
 <p>
 <img src="https://img.shields.io/badge/Figma-1f1c2c?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Affinity-0f2027?style=for-the-badge"/>
@@ -86,26 +88,37 @@ I design and develop solutions that are:
 
 ---
 
-## ⚙ Dev Environment
+## ⚙ Development Environment
 <p>
-<img src="https://img.shields.io/badge/Zed_Editor-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zed-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/Google_Cloud-000428?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
 </p>
 
 ---
 
-## 💼 Why Clients Work With Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=2&section=header"/>
+</p>
 
-- Clear communication  
-- Clean, maintainable architecture  
-- Design + Development in one workflow  
-- Business-focused solutions  
-- On-time delivery  
+# 💼 Why Premium Clients Choose Me
+
+✔ Strategy-first development  
+✔ Clean, scalable architecture  
+✔ Design + Engineering in one workflow  
+✔ Fast communication  
+✔ Long-term partnership mindset  
 
 ---
 
-<h2 align="center">⚡ Let’s Build Something That Stands Out</h2>
-<h3 align="center">Your Vision. My Code. Real Results.</h3>
+# ⚡ Let’s Build Digital Dominance
 
-<!-- Neon Mode Activated -->
+<p align="center">
+  <b>Your Vision.</b> <br>
+  <b>My Architecture.</b> <br>
+  <b>Real Growth.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:302b63&height=120&section=footer"/>
+</p>
