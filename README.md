@@ -1,57 +1,66 @@
 <!-- ================================================= -->
-<!-- ⚡ TSELEY — CYBERPUNK AGENCY MODE ACTIVATED ⚡ -->
+<!-- ⚡ TSELEY — CYBERPUNK VISUAL DOMINATION MODE ⚡ -->
 <!-- ================================================= -->
 
-<!-- 🌌 MATRIX HEADER BACKGROUND -->
+<!-- 🌌 ANIMATED GRADIENT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00ff&height=220&section=header&text=TSELEY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff00ff,100:302b63&height=250&section=header&text=TSELEY&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Digital%20Architect&descAlignY=60&descAlign=50"/>
 </p>
 
-<!-- ⚡ ANIMATED TYPING -->
+<!-- 🧬 MATRIX STYLE ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Premium+Freelance+Developer;High-Performance+Web+Applications;E-Commerce+%26+SaaS+Architect;Design+Meets+Scalable+Engineering;Let%E2%80%99s+Build+Digital+Dominance" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
 
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <a href="https://linkedin.com/in/sanjay-shrestha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/sXC7rcYD">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Available_for-High_Value_Projects-ff00ff?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=FF00FF&center=true&vCenter=true&width=750&lines=Premium+Freelance+Developer;High-Performance+Web+Architect;E-Commerce+%7C+SaaS+%7C+Cloud;Design+Meets+Scalable+Systems;Let%E2%80%99s+Build+Digital+Power" />
 </p>
 
 ---
 
-<!-- 🌈 NEON DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=3"/>
 </p>
 
-# 🌌 Digital Architect for Modern Brands
+# 🌌 DIGITAL ARCHITECTURE FOR MODERN BRANDS
 
-I build **scalable, conversion-focused digital systems** for startups, creators, and growing businesses.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+</p>
 
-This is not just development.  
-This is **engineering + design + business strategy combined.**
+I design and engineer **high-impact digital systems**  
+for startups, creators, and scaling businesses.
 
-### 🚀 What Clients Hire Me For
-
-- High-performance business websites  
-- SaaS platforms & dashboards  
-- E-commerce systems  
-- API-driven architectures  
-- UI/UX systems with brand identity  
-- Cloud-ready deployment pipelines  
+This is not template development.  
+This is **strategy + design + engineering combined.**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3"/>
 </p>
 
-# 🧩 Tech Arsenal
+# 🚀 WHAT I BUILD
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2W2k8z9bR8OY/giphy.gif" width="450"/>
+</p>
+
+- ⚡ Conversion-focused websites  
+- 🛒 Scalable e-commerce systems  
+- 📊 SaaS dashboards & admin panels  
+- 🔗 API-driven architectures  
+- 📱 Progressive Web Applications  
+- ☁️ Cloud-ready deployment pipelines  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=3"/>
+</p>
+
+# 🧩 TECH ARSENAL
 
 ## ⚛ Frontend Systems
 <p>
@@ -65,7 +74,7 @@ This is **engineering + design + business strategy combined.**
 
 ---
 
-## 🛠 Backend & Data Architecture
+## 🛠 Backend & Data Systems
 <p>
 <img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
 <img src="https://img.shields.io/badge/Symfony-0f0c29?style=for-the-badge&logo=symfony&logoColor=white"/>
@@ -78,7 +87,11 @@ This is **engineering + design + business strategy combined.**
 
 ---
 
-## 🎨 Creative Stack
+## 🎨 CREATIVE STACK
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
+
 <p>
 <img src="https://img.shields.io/badge/Figma-1f1c2c?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Affinity-0f2027?style=for-the-badge"/>
@@ -88,7 +101,12 @@ This is **engineering + design + business strategy combined.**
 
 ---
 
-## ⚙ Development Environment
+## ⚙ DEV ENVIRONMENT
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="450"/>
+</p>
+
 <p>
 <img src="https://img.shields.io/badge/Zed-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -98,27 +116,31 @@ This is **engineering + design + business strategy combined.**
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3"/>
 </p>
 
-# 💼 Why Premium Clients Choose Me
+# 💎 PREMIUM CLIENT EXPERIENCE
 
 ✔ Strategy-first development  
-✔ Clean, scalable architecture  
-✔ Design + Engineering in one workflow  
+✔ Clean scalable architecture  
+✔ Design + Engineering unified  
 ✔ Fast communication  
-✔ Long-term partnership mindset  
+✔ Long-term growth mindset  
 
 ---
 
-# ⚡ Let’s Build Digital Dominance
+# ⚡ LET’S BUILD DIGITAL DOMINANCE
 
 <p align="center">
-  <b>Your Vision.</b> <br>
-  <b>My Architecture.</b> <br>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <b>Your Vision.</b><br>
+  <b>My Architecture.</b><br>
   <b>Real Growth.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:302b63&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:302b63&height=140&section=footer"/>
 </p>
